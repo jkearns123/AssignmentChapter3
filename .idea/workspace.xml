@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79bf3e58-2da4-4cb2-bb53-8af914a47b76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorMVC" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity_Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity_Interface_Implement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/II_Object_IdentityTestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/IV_Timeouts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/IV_Timeouts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixturestests/IVTimeoutsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/I_ObjectEqualityInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/I_ObjectEquality.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/I_ObjectEqualityInterface_Implementation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/I_ObjectEqualityInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/III_Fail_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/III_Fail_TestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/V_Disable_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/V_Disable_Test_Interface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/V_Disable_Test_Interface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/V_Disable_Test_Interface_Implementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/Disabled.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/V_Disable_Test_InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixturestests/V_Disable_Test_InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/additionOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/subtractionOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/multiplicationOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/divisionOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/OperationsInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/AdditionInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/SubtractionInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/MultiplicationInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/DivisionInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/SubtractionOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/MultiplicationOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/DivisionOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/AdditionInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/DivisionInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/MultiplicationInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/SubtractionInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/CalculatorInputInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/AdditionOperatorModule.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/II_Object_IdentityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity_Interface.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity_Interface_Implement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/II_Object_IdentityTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/Calculator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jadekearns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AssignmentChapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentChapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jadekearns" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551620808472" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jadekearns.question1testfixtures" />
+      <recent name="com.jadekearns.question2multimodule" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jadekearns.question1testfixtures" />
+      <recent name="com.jadekearns.question1testfixturestests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jadekearns.question1testfixtures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jadekearns.question2multimodule.Calculator" />
+      <module name="AssignmentChapter3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jadekearns.question2multimodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="II_Object_Identity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jadekearns.question1testfixtures.II_Object_Identity" />
+      <module name="AssignmentChapter3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jadekearns.question1testfixtures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="II_Object_IdentityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jadekearns.question1testfixtures.II_Object_IdentityTest" />
+      <module name="AssignmentChapter3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jadekearns.question1testfixtures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="II_Object_IdentityTestTest.testObjectIdentity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentChapter3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jadekearns.question1testfixtures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jadekearns.question1testfixtures" />
+      <option name="MAIN_CLASS_NAME" value="com.jadekearns.question1testfixtures.II_Object_IdentityTestTest" />
+      <option name="METHOD_NAME" value="testObjectIdentity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentChapter3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jadekearns.question1testfixtures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jadekearns.question1testfixtures" />
+      <option name="MAIN_CLASS_NAME" value="com.jadekearns.question1testfixtures.II_Object_IdentityTestTest" />
+      <option name="METHOD_NAME" value="testObjectIdentity1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.II_Object_Identity" />
+        <item itemvalue="JUnit.II_Object_IdentityTestTest.testObjectIdentity1" />
+        <item itemvalue="JUnit.II_Object_IdentityTestTest.testObjectIdentity" />
+        <item itemvalue="Application.II_Object_IdentityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79bf3e58-2da4-4cb2-bb53-8af914a47b76" name="Default Changelist" comment="" />
+      <created>1551528183546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551528183546</updated>
+      <workItem from="1551528190717" duration="11838000" />
+      <workItem from="1551555730714" duration="9864000" />
+      <workItem from="1551595584043" duration="17305000" />
+      <workItem from="1551620561185" duration="333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 13m 37s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 25m 46s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 26m 56s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 27m 11s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 27m 31s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 28m 52s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 29m 36s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 30m 30s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 31m 37s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="II_Object_IdentityTestTest_testObjectIdentity1 - 2019.03.03 at 14h 31m 50s.xml">
+      <configuration name="II_Object_IdentityTestTest.testObjectIdentity1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39340000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/IVTimeoutsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/IV_Timeouts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="69" column="4" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="44" />
+          <folding>
+            <element signature="e#303#1485#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/I_ObjectEqualityInterface_Implementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/Disabled.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/I_ObjectEqualityInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/III_Fail_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/III_Fail_TestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/V_Disable_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/V_Disable_Test_Interface_Implementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/V_Disable_Test_Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/V_Disable_Test_InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/I_ObjectEqualityInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/SubtractionInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/AdditionInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/DivisionInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/MultiplicationInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/SubtractionInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/MultiplicationInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/DivisionInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question2multimodule/AdditionInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/DivisionOperatorModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="71" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="71" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/MultiplicationOperatorModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/SubtractionOperatorModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/AdditionOperatorModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/CalculatorInputInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/I_ObjectEquality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/II_Object_IdentityTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity_Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity_Interface_Implement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jadekearns/question1testfixtures/II_Object_IdentityTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question1testfixtures/II_Object_Identity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jadekearns/question2multimodule/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
